@@ -1,0 +1,15 @@
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\bin\Debug\net6.0\ErupcionLINQ.exe
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\bin\Debug\net6.0\ErupcionLINQ.deps.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\bin\Debug\net6.0\ErupcionLINQ.runtimeconfig.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\bin\Debug\net6.0\ErupcionLINQ.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\bin\Debug\net6.0\ErupcionLINQ.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.csproj.AssemblyReference.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.AssemblyInfoInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.AssemblyInfo.cs
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\obj\Debug\net6.0\refint\ErupcionLINQ.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.genruntimeconfig.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\ORMs\ErupcionLINQ\obj\Debug\net6.0\ref\ErupcionLINQ.dll
