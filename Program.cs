@@ -52,15 +52,15 @@ if(primeraEnHawai ==null){
 Console.WriteLine("-------------------------------------------------------------");
 Console.WriteLine("primera erupción posterior al año 1900 Y en Nueva Zelanda");
 Console.WriteLine("-------------------------------------------------------------");
-Eruption? pos1900InNZ = eruptions.Where(e => e.Year >= 1900).ToList().FirstOrDefault(e => e.Location == "New Zealand");
-Console.WriteLine(pos1900InNZ?.ToString());
+Eruption? pos1900EnNZ = eruptions.Where(e => e.Year >= 1900).ToList().FirstOrDefault(e => e.Location == "New Zealand");
+Console.WriteLine(pos1900EnNZ?.ToString());
 
 // Encuentre todas las erupciones donde la elevación del volcán sea superior a 2000 m e imprímalas.
 Console.WriteLine("-------------------------------------------------------------");
 Console.WriteLine("las erupciones donde la elevación del volcán sea superior a 2000 m");
 Console.WriteLine("-------------------------------------------------------------");
-List<Eruption> eruptionsSobre2000 = eruptions.Where(e => e.ElevationInMeters >= 2000).ToList();
-foreach(Eruption eruption in eruptionsSobre2000){
+List<Eruption> eruptionsSobre2000m = eruptions.Where(e => e.ElevationInMeters >= 2000).ToList();
+foreach(Eruption eruption in eruptionsSobre2000m){
     Console.WriteLine(eruption?.ToString());
 }
 
@@ -84,8 +84,8 @@ Console.WriteLine($"{masAlto} m.");
 Console.WriteLine("-------------------------------------------------------------");
 Console.WriteLine($"El volcán con una elevación de {masAlto} m.");
 Console.WriteLine("-------------------------------------------------------------");
-Eruption? maxElevationEruption = eruptions.Where(e => e.ElevationInMeters == masAlto).FirstOrDefault();
-Console.WriteLine(maxElevationEruption?.ToString());
+Eruption? maxElevaionEruption = eruptions.Where(e => e.ElevationInMeters == masAlto).FirstOrDefault();
+Console.WriteLine(maxElevaionEruption?.ToString());
 
 // Imprima todos los nombres de los volcanes alfabéticamente.
 Console.WriteLine("-------------------------------------------------------------");
